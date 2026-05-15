@@ -1,3 +1,4 @@
+
 # 🌍 GeoSpatial AI Assistant
 
 AI-powered geospatial intelligence platform for analyzing GeoJSON datasets, generating spatial insights, and interacting with GIS data through natural language.
@@ -8,7 +9,7 @@ Built with Python, Streamlit, GeoPandas, Folium, and OpenAI API.
 
 ## 🎥 Demo
 
-[PASTE_YOUR_VIDEO_LINK_HERE]
+(https://github.com/user-attachments/assets/94b793b5-9b4c-4c88-a3fc-a7ea8e1f4954)
 
 ---
 
