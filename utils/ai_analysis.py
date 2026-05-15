@@ -13,6 +13,8 @@ def analyze_geospatial_data(data_summary, user_question):
     response = client.chat.completions.create(
         model="gpt-4o-mini",
 
+        max_tokens=300,
+
         messages=[
             {
                 "role": "system",
